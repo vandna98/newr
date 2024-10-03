@@ -1,6 +1,6 @@
 #include<stdio.h>
 main(){
-	printf("welcome to c practical tutorial");
+	printf("hi to c practical tutorial");
 	
 	
 }
